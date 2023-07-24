@@ -1,0 +1,20 @@
+{
+  "/_error": "pages/_error.js",
+  "/api/send": "pages/api/send.js",
+  "/_app": "pages/_app.js",
+  "/balustrady-ogrodzieniec": "pages/balustrady-ogrodzieniec.html",
+  "/balustrady": "pages/balustrady.html",
+  "/balustrady-zawiercie": "pages/balustrady-zawiercie.html",
+  "/bramy-i-ogrodzenia-zawiercie": "pages/bramy-i-ogrodzenia-zawiercie.html",
+  "/bramy-i-ogrodzenia": "pages/bramy-i-ogrodzenia.html",
+  "/meble-loftowe": "pages/meble-loftowe.html",
+  "/": "pages/index.html",
+  "/schody-ogrodzieniec": "pages/schody-ogrodzieniec.html",
+  "/meble-zawiercie": "pages/meble-zawiercie.html",
+  "/schody-zawiercie": "pages/schody-zawiercie.html",
+  "/bramy-i-ogrodzenia-ogrodzieniec": "pages/bramy-i-ogrodzenia-ogrodzieniec.html",
+  "/schody": "pages/schody.html",
+  "/meble-ogrodzieniec": "pages/meble-ogrodzieniec.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
